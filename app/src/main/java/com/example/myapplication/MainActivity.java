@@ -14,7 +14,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
     private TextView show;
-    private  String[] meal = {"美味漢堡", "章魚燒", "雞排", "可樂", "冰棒"};
+    private  String[] meal = {"美味漢堡", "章魚燒", "雞排", "可樂", "雪碧"};
     private boolean[] mealSeclect = {false, false, false, false, false};
 
     @Override
